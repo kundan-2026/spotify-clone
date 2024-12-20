@@ -1,0 +1,7 @@
+
+.header1 img{
+  /* border: 5px solid rgb(0, 0, 0); */
+  height: 40px;
+  width: 40px;
+  backface-visibility: hidden;
+}
